@@ -1,6 +1,8 @@
 <p align="center">
-// "  I hate my fucking roommate, he keeps strip mining in our fucking pantry  "
+ "  I hate my fucking roommate, he keeps strip mining in our fucking pantry  "
 </p>
-![ezgif-7-24571970ec](https://github.com/user-attachments/assets/1444dfe9-52cd-4e28-b884-8355247a38b1)
+<p align="center">
+    <"h![ezgif-7-24571970ec](https://github.com/user-attachments/assets/fb606535-38a4-4d7a-9699-c81e0132a156)>
+</p>
 
 I LIT DON'T KNOW WHAT I'M DOING, JS IGNORE THIS ..
