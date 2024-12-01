@@ -7,6 +7,6 @@
     </p>
 
 <p align="center">
-      <img src="https://github.com/user-attachments/assets/e6121df5-a5e2-4428-83f1-ef4b7d5a037e">
+      <img src="https://github.com/user-attachments/assets/87b5da25-e29c-4e1a-b3ec-32d9670e0b5a">
     </p>
 it wont center guh,, 
