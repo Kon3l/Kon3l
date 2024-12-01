@@ -5,4 +5,4 @@
 
 
 
-I LIT DON'T KNOW WHAT I'M DOING, JS IGNORE THIS ..
+it wont center guh,, 
