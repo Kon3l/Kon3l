@@ -6,6 +6,7 @@
       <img height=400 src="https://github.com/user-attachments/assets/37827a16-759f-4c9c-b968-90eb0d02d0bf">
     </p>
 
-
-
+<p align="center">
+      <img src="https://github.com/user-attachments/assets/e6121df5-a5e2-4428-83f1-ef4b7d5a037e">
+    </p>
 it wont center guh,, 
