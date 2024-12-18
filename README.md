@@ -3,7 +3,7 @@
     </p>
     
 <p align="center">
-   " ᴹʸ ⁿᵉʷ ʳᵒᵒᵐᵐᵃᵗᵉ ˢᵘᶜᵏˢ﹐ ʰᵉ'ˢ ᵇᵉᵉⁿ ˢᵗʳᶦᵖ ᵐᶦⁿᶦⁿᵍ ᶦⁿ ᵗʰᵉ ᶠᵘᶜᵏᶦⁿᵍ ᵖᵃⁿᵗʳʸ "
+   " My new roommate sucks, he's been strip mining in the fucking pantry "
   
 
 <p align="center">
