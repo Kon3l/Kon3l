@@ -9,12 +9,4 @@
       <img height=400 src="https://github.com/user-attachments/assets/37827a16-759f-4c9c-b968-90eb0d02d0bf">
     </p>
 
-<p align="center">
-      <img src="https://github.com/user-attachments/assets/87b5da25-e29c-4e1a-b3ec-32d9670e0b5a">
-    </p>
 
-
-
-
-
-_kon_el on discord
