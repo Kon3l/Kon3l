@@ -12,3 +12,7 @@
 <p align="center">
       <img src="https://github.com/user-attachments/assets/87b5da25-e29c-4e1a-b3ec-32d9670e0b5a">
     </p>
+
+
+
+@ _kon_el on discord
