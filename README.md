@@ -22,7 +22,7 @@
 <hr class="solid">
     
 <p align="center"> 
-   <br> ${\textsf{\color{#fddb95}Away = offtab / afk (w2i)}$
+   <br> ${\textsf{\color{#fddb95}Away = offtab / afk (w2i)}}$
    <br>
    <br> ${\textsf{\color{#f4b365}Don't disturb = busy / iwc}}$ 
    <br>
