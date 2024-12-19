@@ -39,8 +39,11 @@
    <br>
    <br> ${\textsf{\color{#fddb95}pretty much it, pls sign my SP!}}$
    <br>
+   <br>
    </p>
 <hr class="solid">
+<br>
+<br>
 <p align="center">
       <img height=50 src="https://github.com/user-attachments/assets/dfca7c07-1b9b-4637-89c2-12c8c945b3b0">
     </p>
