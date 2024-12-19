@@ -29,3 +29,8 @@
    <br> ${\textsf{\color{#50b4e6}Online = Feel free to int !}}$ 
    <br>
     </p> 
+
+<hr class="solid">
+<p align="center">
+      <img height=50 src="https://github.com/user-attachments/assets/dfca7c07-1b9b-4637-89c2-12c8c945b3b0">
+    </p>
