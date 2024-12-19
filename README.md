@@ -1,5 +1,4 @@
 <p align="center">
-          PLS IGNORE THIS MESS PLS I'M WORKING ON IT !!
       <img height=100 src="https://github.com/user-attachments/assets/4cb6fe5e-f28f-4744-9a48-7dfbe5ac27c9">
     </p>
     
