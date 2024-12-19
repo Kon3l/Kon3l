@@ -1,4 +1,5 @@
 <p align="center">
+          PLS IGNORE THIS MESS PLS I'M WORKING ON IT !!
       <img height=100 src="https://github.com/user-attachments/assets/4cb6fe5e-f28f-4744-9a48-7dfbe5ac27c9">
     </p>
     
@@ -41,6 +42,5 @@
    </p>
 <hr class="solid">
 <p align="center">
-      PLS IGNORE THIS MESS PLS I'M WORKING ON IT !!
       <img height=50 src="https://github.com/user-attachments/assets/dfca7c07-1b9b-4637-89c2-12c8c945b3b0">
     </p>
