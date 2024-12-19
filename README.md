@@ -36,9 +36,10 @@
    <br>
    </p>
 <hr class="solid">
-<p align="center">
-${\textsf{\color{#fefefd}" My new roommate sucks, he's been strip mining in the fucking pantry "}}$
-<br>
+ <h3 align="center">          
+" My new roommate sucks, he's been strip mining in the fucking pantry "   
+    </h3>
+
 <br>
 <p align="center">
       <img height=40 src="https://github.com/user-attachments/assets/dfca7c07-1b9b-4637-89c2-12c8c945b3b0">
