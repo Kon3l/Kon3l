@@ -20,5 +20,11 @@
     </h3>
 <!-- divider -->
     
-
-meeowmeowmoew text text meow
+ <p align="left">
+   <br> ${\textsf{\color{#fddb95}text}}$ 
+   <br>
+   <br> ${\textsf{\color{#f4b365}text}}$ 
+   <br>
+   <br> ${\textsf{\color{#50b4e6}text}}$ 
+   <br>
+    </p> 
