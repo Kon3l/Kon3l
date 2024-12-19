@@ -18,7 +18,8 @@
  <h3 align="center">          
  ୨୧  Pony Town  𐙚   
     </h3>
-<!-- divider -->
+    
+<hr class="solid">
     
  <p align="left">
    <br> ${\textsf{\color{#fddb95}text}}$ 
