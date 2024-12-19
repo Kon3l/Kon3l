@@ -32,7 +32,7 @@
    <br>
    <br> ${\textsf{\color{#fefefd}xtra :}}$ 
    <br>
-   <br> ${\textsf{\color{#50b4e6} cuddle or hide whenever }}$
+   <br> ${\textsf{\color{#50b4e6} cuddle or hide whenever!}}$
    <br>
    <br> ${\textsf{\color{#f4b365}meow}}$ 
    <br>
