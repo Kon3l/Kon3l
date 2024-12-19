@@ -37,7 +37,7 @@
    <br>
    <br> ${\textsf{\color{#f4b365}please don't copy my pones}}$ 
    <br>
-   <br> ${\textsf{\color{#fddb95}meow}}$
+   <br> ${\textsf{\color{#fddb95}pretty much it! pls sign my SP}}$
    <br>
    </p>
 <hr class="solid">
