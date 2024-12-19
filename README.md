@@ -22,7 +22,8 @@
 <hr class="solid">
     
  <p align="left">
-   <br> ${\textsf{\color{#fddb95}text}}$ 
+ <img src="<img src="https://wilardo.crd.co/assets/images/gallery29/dab2488d.gif?v=f2364dd6">
+       <br> ${\textsf{\color{#fddb95}text}}$ 
    <br>
    <br> ${\textsf{\color{#f4b365}text}}$ 
    <br>
