@@ -15,11 +15,11 @@
       <img height=50 src="https://github.com/user-attachments/assets/687e586c-ced1-488a-8088-e1f036f6e57c">
     </p>
 
- <h3 align="center">
-       Pony Town  𐙚   𐂯
-   
-
+ <h3 align="center">          
+ ୨୧  Pony Town  𐙚   
     </h3>
+
+    
    <!-- divider -->
 
    meeowmeowmoew text text meow
