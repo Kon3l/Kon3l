@@ -21,12 +21,11 @@
     
 <hr class="solid">
     
- <p align="left">
- <img src="<img src="https://wilardo.crd.co/assets/images/gallery29/dab2488d.gif?v=f2364dd6">
-       <br> ${\textsf{\color{#fddb95}text}}$ 
+<p align="center"> 
+   <br> ${\textsf{\color{#fddb95}Away = offtab / afk (w2i)}}$ 
    <br>
-   <br> ${\textsf{\color{#f4b365}text}}$ 
+   <br> ${\textsf{\color{#f4b365}Don't disturb = busy / iwc }}$ 
    <br>
-   <br> ${\textsf{\color{#50b4e6}text}}$ 
+   <br> ${\textsf{\color{#50b4e6}Online = Feel free to int !}}$ 
    <br>
     </p> 
