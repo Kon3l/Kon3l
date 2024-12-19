@@ -24,9 +24,9 @@
 <p align="center"> 
    <br> ${\textsf{\color{#fddb95}Away = offtab / afk (w2i)}$
    <br>
-   <br> ${\textsf{\color{#f4b365}Don't disturb = busy / iwc }}$ 
+   <br> ${\textsf{\color{#f4b365}Don't disturb = busy / iwc}}$ 
    <br>
-   <br> ${\textsf{\color{#50b4e6}Online = Feel free to int !}}$ 
+   <br> ${\textsf{\color{#50b4e6}Online = Feel free to int!}}$ 
    <br>
     </p> 
 
