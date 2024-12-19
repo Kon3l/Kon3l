@@ -16,7 +16,7 @@
     </p>
 
  <h3 align="center">
- <br> ${\textsf{\color{#fefdfc}Pony Town}}$ 
+       ${\textsf{\color{#fefdfc}Pony Town}}$ 
     </h3>
    <!-- divider -->
 
