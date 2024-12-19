@@ -22,15 +22,23 @@
 <hr class="solid">
     
 <p align="center"> 
+   <br> ${\textsf{\color{#fefefd}status :}}$
+   <br>
    <br> ${\textsf{\color{#fddb95}Away = offtab / afk (w2i)}}$
    <br>
    <br> ${\textsf{\color{#f4b365}Don't disturb = busy / iwc}}$ 
    <br>
    <br> ${\textsf{\color{#50b4e6}Online = Feel free to int!}}$ 
    <br>
-    </p> 
-
-
+   <br> ${\textsf{\color{#fefefd}xtra :}}$ 
+   <br>
+   <br> ${\textsf{\color{#50b4e6} cuddle or hide whenever }}$
+   <br>
+   <br> ${\textsf{\color{#f4b365}meow}}$ 
+   <br>
+   <br> ${\textsf{\color{#fddb95}meow}}$
+   <br>
+   </p>
 <hr class="solid">
 <p align="center">
       <img height=50 src="https://github.com/user-attachments/assets/dfca7c07-1b9b-4637-89c2-12c8c945b3b0">
