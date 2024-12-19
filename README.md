@@ -21,17 +21,17 @@
    <br>
    <br> ${\textsf{\color{#fddb95}Away = offtab / afk (w2i)}}$
    <br>
-   <br> ${\textsf{\color{#f4b365}Don't disturb = busyyyy}}$
+   <br> ${\textsf{\color{#eab76e}Don't disturb = busyyyy}}$
    <br>
-   <br> ${\textsf{\color{#50b4e6}Online = Feel free to int!}}$ 
+   <br> ${\textsf{\color{#e29a54}Online = Feel free to int!}}$ 
    <br>
    <br> ${\textsf{\color{#fefefd}xtra :}}$ 
    <br>
    <br> ${\textsf{\color{#50b4e6} cuddle or hide whenever!}}$
    <br>
-   <br> ${\textsf{\color{#f4b365}please don't copy my pones}}$ 
+   <br> ${\textsf{\color{#43a2d2}please don't copy my pones}}$ 
    <br>
-   <br> ${\textsf{\color{#fddb95}pretty much it, pls sign my straw!}}$
+   <br> ${\textsf{\color{#3382c4}pretty much it, pls sign my straw!}}$
    <br>
    <br>
    </p>
