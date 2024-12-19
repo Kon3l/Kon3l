@@ -12,7 +12,7 @@
 
 
 <p align="center">
-      <img height=50 src="https://github.com/user-attachments/assets/687e586c-ced1-488a-8088-e1f036f6e57c">
+      <img height=40 src="https://github.com/user-attachments/assets/687e586c-ced1-488a-8088-e1f036f6e57c">
     </p>
 
  <h3 align="center">          
@@ -44,5 +44,5 @@
 <br>
 <br>
 <p align="center">
-      <img height=50 src="https://github.com/user-attachments/assets/dfca7c07-1b9b-4637-89c2-12c8c945b3b0">
+      <img height=40 src="https://github.com/user-attachments/assets/dfca7c07-1b9b-4637-89c2-12c8c945b3b0">
     </p>
