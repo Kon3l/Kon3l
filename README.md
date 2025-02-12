@@ -19,7 +19,7 @@
 <p align="center"> 
    <br> ${\textsf{\color{#fefefd}status :}}$
    <br>
-   <br> ${\textsf{\color{#fddb95}Away = offtab / afk or w2i}}$
+   <br> ${\textsf{\color{#fddb95}Away = offtab / w2i}}$
    <br>
    <br> ${\textsf{\color{#eab76e}Don't disturb = busyyyy}}$
    <br>
