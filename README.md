@@ -33,7 +33,6 @@
    <br>
    <br> ${\textsf{\color{#3382c4}pretty much it, pls sign my straw!}}$
    <br>
-   <br>
    </p>
 <hr class="solid">
  <h3 align="center">          
