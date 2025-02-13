@@ -19,9 +19,9 @@
 <p align="center"> 
    <br> ${\textsf{\color{#fefefd}status :}}$
    <br>
-   <br> ${\textsf{\color{#fddb95}Away = offtab / w2i}}$
+   <br> ${\textsf{\color{#fddb95}Away = offtab / w2i I'll get back to you!}}$
    <br>
-   <br> ${\textsf{\color{#eab76e}Don't disturb = busyyyy}}$
+   <br> ${\textsf{\color{#eab76e}Busy = w2i but I may not reply}}$
    <br>
    <br> ${\textsf{\color{#e29a54}Online = Feel free to int!}}$ 
    <br>
