@@ -20,7 +20,7 @@
 ୨୧  Info stuff  𐙚   
     </h3>
 <p align="center">
-      <img height=40 src="https://github.com/user-attachments/assets/bf179fd7-f7b2-4551-b3e5-c1cb6fb0dde9">
+      (divider)
 </p>
 (give me 3000 yrs pls..)
 
