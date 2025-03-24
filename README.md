@@ -1,6 +1,6 @@
 
  <h3 align="center">          
-" Take this tickin' tickin time out, cause I hit what I aim for  . . "    
+" Take this tickin' tickin time out, cause I hit what I aim for "    
  </h3>
 
 <p align="center">
