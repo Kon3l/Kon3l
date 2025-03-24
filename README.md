@@ -25,7 +25,7 @@
 ୨୧  Info stuff  𐙚   
  </h3>   
 <h3 align="center">  
-<br>
+work in progress
 <div align="center">
 <details>
 <summary>spotify</summary>
