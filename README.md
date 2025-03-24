@@ -19,7 +19,10 @@
 
 ୨୧  Info stuff  𐙚   
     </h3>
-
+<p align="center">
+      <img height=40 src="https://github.com/user-attachments/assets/bf179fd7-f7b2-4551-b3e5-c1cb6fb0dde9">
+</p>
+(give me 3000 yrs pls..)
 
 wip i currently give up
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31umivrnaxahj6cwse3vgvyyx5uy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=5c0701)](https://github.com/kittinan/spotify-github-profile)
