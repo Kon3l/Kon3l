@@ -17,3 +17,8 @@ wip !!
 <p align="left"> <img src="https://cdn.discordapp.com/attachments/968691595958435920/1353541638739329085/Untitled34_20250323202921.png?ex=67e20762&is=67e0b5e2&hm=5b4e770014e6299a48ab6c9a3262be3c3620c013f14829f8366ad633ee0f679e&" width="50" height="50" align="left"> <kbd><br>Oh yeah? I’m 30 and I don’t have any kids. What am I?<br>&nbsp;  </kbd> </p>  
  <p align="right"> <img src="https://cdn.discordapp.com/attachments/968691595958435920/1353541639137918996/Untitled34_20250323202912.png?ex=67e20762&is=67e0b5e2&hm=0c7803f6c8c12768e2845f52c531f2d2dfc85875ef789d9b748d1345db01802f&" width="50" height="50" align="right"> <kbd align="right"><br>gay?<br>&nbsp;  </kbd></p>
 <hr class="solid">
+
+
+<p align="center">
+      <img height=200 src="https://cdn.discordapp.com/attachments/968691595958435920/1353544072702328922/Untitled35_20250323204017.png?ex=67e209a6&is=67e0b826&hm=f9ab19d582e5c0ceb9cd68377bb967f29497c9403e3c4f934b1dcfc1871f77d3&">
+    </p>
