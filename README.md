@@ -24,5 +24,6 @@
 </p>
 (give me 3000 yrs pls..)
 
-wip i currently give up
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31umivrnaxahj6cwse3vgvyyx5uy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false&bar_color=5c0701)](https://github.com/kittinan/spotify-github-profile)
+wip i currently give up
+
