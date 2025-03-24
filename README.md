@@ -22,10 +22,8 @@
   <h3 align="center">   
 
 ୨୧  Info stuff  𐙚   
-    </h3>
 <p align="center">
-      (divider)
-</p>
+(divider)
 
 <br>
 <div align="center">
