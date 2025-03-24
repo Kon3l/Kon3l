@@ -17,7 +17,7 @@
 
   <h3 align="center">   
 
-୨୧  Pony Town  𐙚   
+୨୧  Info stuff  𐙚   
     </h3>
 
 
