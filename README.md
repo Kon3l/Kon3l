@@ -18,12 +18,13 @@
 <p align="left"> <img src="https://cdn.discordapp.com/attachments/968691595958435920/1353541638739329085/Untitled34_20250323202921.png?ex=67e20762&is=67e0b5e2&hm=5b4e770014e6299a48ab6c9a3262be3c3620c013f14829f8366ad633ee0f679e&" width="50" height="50" align="left"> <kbd><br>Oh yeah? I’m 30 and I don’t have any kids. What am I?<br>&nbsp;  </kbd> </p>  
  <p align="right"> <img src="https://cdn.discordapp.com/attachments/968691595958435920/1353541639137918996/Untitled34_20250323202912.png?ex=67e20762&is=67e0b5e2&hm=0c7803f6c8c12768e2845f52c531f2d2dfc85875ef789d9b748d1345db01802f&" width="50" height="50" align="right"> <kbd align="right"><br>gay?<br>&nbsp;  </kbd></p>
 <hr class="solid">
-
-  <h3 align="center">   
-
-୨୧  Info stuff  𐙚   
+ 
 <p align="center">   <img height=40 src="https://dividers.crd.co/assets/images/gallery09/c315652e.gif?v=05d33f91">
 </p>
+<h3 align="center">          
+୨୧  Info stuff  𐙚   
+ </h3>   
+<h3 align="center">  
 <br>
 <div align="center">
 <details>
