@@ -25,21 +25,21 @@
  </h3>   
  <hr class="solid">
 <p align="center"> 
-   <br> ${\textsf{\color{#fefefd}status :}}$
+   <br> ${\textsf{\color{#ffffff}status :}}$
    <br>
-   <br> ${\textsf{\color{#718b9c}Away = afk / w2i I'll get back to you!}}$
+   <br> ${\textsf{\color{#e60000}Away = afk / w2i I'll get back to you!}}$
    <br>
-   <br> ${\textsf{\color{#42515f}Busy = don't interact cause I wont reply}}$
+   <br> ${\textsf{\color{#cc0000}Busy = don't interact cause I wont reply}}$
    <br>
-   <br> ${\textsf{\color{#343f43}Online = Feel free to int!}}$ 
+   <br> ${\textsf{\color{#b30000}Online = Feel free to int!}}$ 
    <br>
    <br> ${\textsf{\color{#ffffff}xtra :}}$ 
    <br>
-   <br> ${\textsf{\color{#a82256} cuddle or hide whenever!}}$
+   <br> ${\textsf{\color{#990000} cuddle or hide whenever!}}$
    <br>
-   <br> ${\textsf{\color{#900C3f}please don't copy my pones}}$ 
+   <br> ${\textsf{\color{#800000}please don't copy my pones}}$ 
    <br>
-   <br> ${\textsf{\color{#8a1240}pretty much it, pls sign my straw!}}$
+   <br> ${\textsf{\color{#660000}pretty much it, pls sign my straw!}}$
    <br>
    </p> 
 <h3 align="center">  
