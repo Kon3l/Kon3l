@@ -28,19 +28,19 @@
 <p align="center"> 
    <br> ${\textsf{\color{#ffffff}status :}}$
    <br>
-   <br> ${\textsf{\color{#e60000}Away = afk / w2i I'll get back to you!}}$
+   <br> ${\textsf{\color{#292929}Away = afk / w2i I'll get back to you!}}$
    <br>
-   <br> ${\textsf{\color{#cc0000}Busy = don't interact cause I wont reply}}$
+   <br> ${\textsf{\color{#6E6E6E}Busy = don't interact cause I wont reply}}$
    <br>
-   <br> ${\textsf{\color{#b30000}Online = Feel free to int!}}$ 
+   <br> ${\textsf{\color{#939393}Online = Feel free to int!}}$ 
    <br>
    <br> ${\textsf{\color{#ffffff}xtra :}}$ 
    <br>
-   <br> ${\textsf{\color{#990000} cuddle or hide whenever!}}$
+   <br> ${\textsf{\color{#D64141} cuddle or hide whenever!}}$
    <br>
-   <br> ${\textsf{\color{#800000}please don't copy my pones}}$ 
+   <br> ${\textsf{\color{#CA3638}please don't copy my pones}}$ 
    <br>
-   <br> ${\textsf{\color{#660000}pretty much it, pls sign my straw!}}$
+   <br> ${\textsf{\color{#C0282B}pretty much it, pls sign my straw!}}$
    <br>
    </p> 
 </br>
