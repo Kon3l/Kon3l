@@ -42,7 +42,7 @@
    <br> ${\textsf{\color{#660000}pretty much it, pls sign my straw!}}$
    <br>
    </p> 
-
+</br>
 <hr class="solid">
 
 <div align="center">
@@ -51,3 +51,6 @@
       
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31umivrnaxahj6cwse3vgvyyx5uy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=999999&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
+
+<p align="center">
+Work in progress !!
