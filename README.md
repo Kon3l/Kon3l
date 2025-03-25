@@ -42,8 +42,9 @@
    <br> ${\textsf{\color{#660000}pretty much it, pls sign my straw!}}$
    <br>
    </p> 
-<h3 align="center">  
-work in progress
+
+<hr class="solid">
+
 <div align="center">
 <details>
 <summary>spotify</summary>
