@@ -28,7 +28,7 @@
 <p align="center"> 
    <br> ${\textsf{\color{#ffffff}status :}}$
    <br>
-   <br> ${\textsf{\color{#292929}Away = afk / w2i I'll get back to you!}}$
+   <br> ${\textsf{\color{#5E5E5E}Away = afk / w2i I'll get back to you!}}$
    <br>
    <br> ${\textsf{\color{#6E6E6E}Busy = don't interact cause I wont reply}}$
    <br>
