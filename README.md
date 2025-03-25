@@ -1,7 +1,5 @@
-<p align="center">
-Work in progress !!
- <p align="center">![](https://komarev.com/ghpvc/?username=kon3l-high&label=✦&color=942e40
-)</p>
+<p align="center">![](https://komarev.com/ghpvc/?username=kon3l-high&label=✦&color=942e40)</p>
+ 942e40
 <p align="center">
       <img height=40 src="https://github.com/user-attachments/assets/dfca7c07-1b9b-4637-89c2-12c8c945b3b0">
     </p>
@@ -47,11 +45,11 @@ Work in progress !!
 </br>
 <hr class="solid">
 
+<p align="center">
+Work in progress !!
 <div align="center">
 <details>
 <summary>spotify</summary>
       
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31umivrnaxahj6cwse3vgvyyx5uy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=999999&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
-
-
