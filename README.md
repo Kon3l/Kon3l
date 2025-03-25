@@ -37,9 +37,9 @@
    <br>
    <br> ${\textsf{\color{#bb2e40} cuddle or hide whenever!}}$
    <br>
-   <br> ${\textsf{\color{#a42949}please don't copy my pones}}$ 
+   <br> ${\textsf{\color{#8a1240}please don't copy my pones}}$ 
    <br>
-   <br> ${\textsf{\color{#831623}pretty much it, pls sign my straw!}}$
+   <br> ${\textsf{\color{#900C3f}pretty much it, pls sign my straw!}}$
    <br>
    </p>
 <h3 align="center">  
