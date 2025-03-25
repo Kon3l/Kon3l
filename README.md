@@ -24,7 +24,24 @@
 ୨୧  Info stuff  𐙚   
  </h3>   
  <hr class="solid">
-
+<p align="center"> 
+   <br> ${\textsf{\color{#fefefd}status :}}$
+   <br>
+   <br> ${\textsf{\color{#fddb95}Away = afk / w2i I'll get back to you!}}$
+   <br>
+   <br> ${\textsf{\color{#eab76e}Busy = don't interact cause I wont reply}}$
+   <br>
+   <br> ${\textsf{\color{#e29a54}Online = Feel free to int!}}$ 
+   <br>
+   <br> ${\textsf{\color{#fefefd}xtra :}}$ 
+   <br>
+   <br> ${\textsf{\color{#50b4e6} cuddle or hide whenever!}}$
+   <br>
+   <br> ${\textsf{\color{#43a2d2}please don't copy my pones}}$ 
+   <br>
+   <br> ${\textsf{\color{#3382c4}pretty much it, pls sign my straw!}}$
+   <br>
+   </p>
 <h3 align="center">  
 work in progress
 <div align="center">
