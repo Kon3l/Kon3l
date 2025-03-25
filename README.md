@@ -35,11 +35,11 @@
    <br>
    <br> ${\textsf{\color{#fefefd}xtra :}}$ 
    <br>
-   <br> ${\textsf{\color{#50b4e6} cuddle or hide whenever!}}$
+   <br> ${\textsf{\color{#bb2e40} cuddle or hide whenever!}}$
    <br>
-   <br> ${\textsf{\color{#43a2d2}please don't copy my pones}}$ 
+   <br> ${\textsf{\color{#a42949}please don't copy my pones}}$ 
    <br>
-   <br> ${\textsf{\color{#3382c4}pretty much it, pls sign my straw!}}$
+   <br> ${\textsf{\color{#831623}pretty much it, pls sign my straw!}}$
    <br>
    </p>
 <h3 align="center">  
