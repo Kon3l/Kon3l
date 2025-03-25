@@ -27,21 +27,21 @@
 <p align="center"> 
    <br> ${\textsf{\color{#fefefd}status :}}$
    <br>
-   <br> ${\textsf{\color{#fddb95}Away = afk / w2i I'll get back to you!}}$
+   <br> ${\textsf{\color{#718b9c}Away = afk / w2i I'll get back to you!}}$
    <br>
-   <br> ${\textsf{\color{#eab76e}Busy = don't interact cause I wont reply}}$
+   <br> ${\textsf{\color{#42515f}Busy = don't interact cause I wont reply}}$
    <br>
-   <br> ${\textsf{\color{#e29a54}Online = Feel free to int!}}$ 
+   <br> ${\textsf{\color{#343f43}Online = Feel free to int!}}$ 
    <br>
-   <br> ${\textsf{\color{#fefefd}xtra :}}$ 
+   <br> ${\textsf{\color{#ffffff}xtra :}}$ 
    <br>
-   <br> ${\textsf{\color{#bb2e40} cuddle or hide whenever!}}$
+   <br> ${\textsf{\color{#a82256} cuddle or hide whenever!}}$
    <br>
-   <br> ${\textsf{\color{#8a1240}please don't copy my pones}}$ 
+   <br> ${\textsf{\color{#900C3f}please don't copy my pones}}$ 
    <br>
-   <br> ${\textsf{\color{#900C3f}pretty much it, pls sign my straw!}}$
+   <br> ${\textsf{\color{#8a1240}pretty much it, pls sign my straw!}}$
    <br>
-   </p>
+   </p> 
 <h3 align="center">  
 work in progress
 <div align="center">
