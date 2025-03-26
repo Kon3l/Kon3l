@@ -46,8 +46,6 @@
 </br>
 <hr class="solid">
 
-<p align="center">
-Work in progress !!
 <div align="center">
 <details>
 <summary>spotify</summary>
