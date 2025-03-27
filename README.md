@@ -22,7 +22,7 @@
 <p align="center">   <img height=40 src="https://dividers.crd.co/assets/images/gallery09/c315652e.gif?v=05d33f91">
 </p>
 <h3 align="center">          
-୨୧  Info stuff  𐙚   
+୨୧  pt inf  𐙚   
  </h3>   
  <hr class="solid">
 <p align="center"> 
