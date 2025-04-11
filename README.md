@@ -37,8 +37,7 @@
    <br> ${\textsf{\color{#ffffff}xtra :}}$ 
    <br>
    <br> ${\textsf{\color{#D64141} cuddle or hide whenever!}}$
-   <br>
-   <br> ${\textsf{\color{#CA3638}pls int withme...}}$ 
+
    <br>
    <br> ${\textsf{\color{#C0282B}pretty much it, pls sign my straw!}}$
    <br>
