@@ -30,7 +30,7 @@
    <br>
    <br> ${\textsf{\color{#5E5E5E}Away = afk / w2i I'll get back to you!}}$
    <br>
-   <br> ${\textsf{\color{#6E6E6E}Busy = don't interact cause I wont reply}}$
+   <br> ${\textsf{\color{#6E6E6E}Busy = w2i but no guranteed response}}$
    <br>
    <br> ${\textsf{\color{#939393}Online = Feel free to int!}}$ 
    <br>
@@ -38,7 +38,7 @@
    <br>
    <br> ${\textsf{\color{#D64141} cuddle or hide whenever!}}$
    <br>
-   <br> ${\textsf{\color{#CA3638}please don't copy my pones}}$ 
+   <br> ${\textsf{\color{#CA3638}pls int withme...}}$ 
    <br>
    <br> ${\textsf{\color{#C0282B}pretty much it, pls sign my straw!}}$
    <br>
