@@ -5,7 +5,7 @@ images r currentlky broken (i dont feel like fixing it atm..)
 
 <br>
 <p align="center">
-      <img height=40 src="https://github.com/user-attachments/assets/dfca7c07-1b9b-4637-89c2-12c8c945b3b0">
+      <img height=40 src="[https://github.com/user-attachments/assets/dfca7c07-1b9b-4637-89c2-12c8c945b3b0](https://files.catbox.moe/6adrdg.png)">
     </p>
  <h3 align="center">          
 " Take this tickin' tickin time out, cause I hit what I aim for "    
