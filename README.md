@@ -1,5 +1,3 @@
-images r currentlky broken (i dont feel like fixing it atm..)
-
 <br> <p align="center">![](![image](https://github.com/user-attachments/assets/2aebf467-7e83-41dd-bce6-305b219fdb7d)
 ) </p>
 
