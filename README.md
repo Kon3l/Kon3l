@@ -1,7 +1,5 @@
 
 <br> <p align="center">![](https://komarev.com/ghpvc/?username=kon3l&label=✦&color=D64141)</p>
-
-<br>
 <p align="center">
       <img height=40 src="[https://github.com/user-attachments/assets/dfca7c07-1b9b-4637-89c2-12c8c945b3b0](https://files.catbox.moe/6adrdg.png)">
     </p>
