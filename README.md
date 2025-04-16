@@ -1,6 +1,6 @@
 images r currentlky broken (i dont feel like fixing it atm..)
 
-<br> <p align="center">![](https://komarev.com/ghpvc/?username=kon3l-high&label=✦&color=832c3b) </p>
+<br> <p align="center">![]([https://komarev.com/ghpvc/?username=kon3l-high&label=✦&color=832c3b](https://i.imgur.com/luikkwq.png)) </p>
 
 <br>
 <p align="center">
